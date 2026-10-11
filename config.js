@@ -2,7 +2,7 @@
 window.BROOMPROFIT = {
   checkoutUrl: 'https://payhip.com/b/qlU4D', // Payhip-hosted product and checkout.
   // Optional contact URL can be the published Payhip Contact page.
-  contactUrl: '',
+  contactUrl: 'https://payhip.com/u1791646826182767313974/contact',
   currency: 'USD',
   launchPrice: 39
 };
